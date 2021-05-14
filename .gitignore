@@ -1,0 +1,7 @@
+.DS_store
+.ipynb_checkpoints/
+__pychache__
+titanic_df.csv
+iris_df.csv 
+env.py
+acquire.py
