@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from pydataset import data
+import os
 from env import username, password, host
 
 ##### Acquire Titanic Data #####
